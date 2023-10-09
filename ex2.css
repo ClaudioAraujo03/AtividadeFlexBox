@@ -1,0 +1,42 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+body{
+    width: 100%;
+    height: 100vh;
+}
+section{
+    width: 100%;
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+    gap: 2%;
+}
+.container-exercicioB{
+    background-color: rgb(159, 159, 159);
+    width: 100%;
+    height: 100%;
+    display: flex;
+    flex-direction: column-reverse;
+}
+.div-1{
+    background-color: aqua;
+    width: 15%;
+    height: 25%;
+}
+.div-2{
+    background-color: rgb(1, 40, 64);
+    width: 15%;
+    height: 25%;
+}
+.div-3{
+    background-color: rgb(246, 38, 97);
+    width: 15%;
+    height: 25%;
+}
+.div-4{
+    background-color: rgb(205, 205, 16);
+    width: 15%;
+    height: 25%;
+}
